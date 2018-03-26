@@ -1,0 +1,28 @@
+.font{
+    font-family: 'Caveat', cursive;
+    color: rgb(150, 200, 219);
+    font-size: 100px;
+    
+}
+.font2{
+    font-family: 'Caveat', cursive;
+}
+
+body{
+    background-image: URL('images/book.jpg');
+    background-size: 100%;
+
+    
+}
+
+
+.card{
+    width: 200px;
+    height: 200px;
+}
+.double {
+    border-style: double;
+
+}
+
+   
